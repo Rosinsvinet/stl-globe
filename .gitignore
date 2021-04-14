@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Transpiled files
+build/
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# Optional eslint cache
+.eslintcache
+
+# generated stl
+out/
+
+#testdirs
+dem_1/
+dem_2/
+
+cura/
+fablab/
+
+dem_alle.zip
